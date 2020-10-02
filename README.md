@@ -33,3 +33,12 @@ This is a very simple query and I think you should be able to do to it.)
 9. Show usage of Simple Select Statement
 10. Select Statement using Relational and Logical operators.
 11. One simple Subquery using select
+### Assignment 4
+Requirements:
+Illustration of the following using Select Query
+1. Order by Clause
+2. Group by and having
+3. Aggregate functions
+4. Logical operators especially with LIKE
+5. At least 4 Nested queries specific to your Database, out of which at least 2 should
+have multiple subquery.
