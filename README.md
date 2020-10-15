@@ -34,7 +34,7 @@ This is a very simple query and I think you should be able to do to it.)
 10. Select Statement using Relational and Logical operators.
 11. One simple Subquery using select
 ### Assignment 4
-Requirements:
+Requirements:  
 Illustration of the following using Select Query
 1. Order by Clause
 2. Group by and having
@@ -42,3 +42,12 @@ Illustration of the following using Select Query
 4. Logical operators especially with LIKE
 5. At least 4 Nested queries specific to your Database, out of which at least 2 should
 have multiple subquery.
+
+### Assignment 5
+Requirements:   
+Illustration of different types of Joins. Make use of all the tables in the Database. Don’t get
+stuck on to one or two table. The Queries should cover all the tables.
+1. INNER JOIN - 3 queries
+2. LEFT OUTER JOIN – 3 Queries
+3. RIGHT OUTER JOINS – 3 QUERIES
+4. Make use of different types of operators and clauses within all the queries.
